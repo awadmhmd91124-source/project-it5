@@ -9,14 +9,7 @@
             padding: 25px;
         }
 
- body {
-            background-image: url("../.VSCODE/WhatsApp Image 2025-11-14 at 14.48.09_9224db24.jpg") ;
-            background-color: #f5f5f5;
-            color: #000000;
-            padding:20 ;
-            line-height: 1.6;
-            padding: 25px;
-        }
+
  header {
             background: linear-gradient(to right, #8B4513, #D2691E);
             color: rgb(228, 227, 225);
@@ -26,7 +19,7 @@
             font-weight: bold;
             border-radius: 10px;
             margin: 20px;
-            box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911);
+            box-shadow: 0 5px 5px rgba(255, 255, 255, 0.911);
         }
         
         nav {
@@ -34,7 +27,7 @@
             padding: 15px;
             border-radius: 8px;
             margin-bottom: 20px;
-            box-shadow: 0 2px 4px rgba(7, 6, 1, 0.911);
+            box-shadow: 0 6px 6px rgba(255, 222, 33, 0.911);
             text-align: center;
         }
         
@@ -56,32 +49,25 @@
     margin: 40px auto;
     text-align: center;
     border: 3px solid #8f5703;
-    
+    font-size: large;
     padding: 20px;
     background-color:#e08104bb;
     border-radius: 100px;
     
 }
 
-.contact-container h2 {
-    text-align: center;
-}
-
 .contact-form input
  {
+    
     width: 95%;
-    padding: 12px;
+    padding: 15px;
     margin-bottom: 15px;
-   
-    border-radius: 4px  ;
     box-sizing: border-box; 
     font-size: 16px;
     border: 2px solid #0000008c;
-
 }
 
 
- 
 
 .my-links img {
     width: 35px;

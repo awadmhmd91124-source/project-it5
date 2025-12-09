@@ -15,7 +15,7 @@
             font-weight: bold;
             border-radius: 10px;
             margin-bottom: 20px;
-          box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911)
+          box-shadow: 0 4px 4px rgba(255, 255, 255, 0.911)
         }
         
          nav {
@@ -23,7 +23,7 @@
     padding: 15px;
     border-radius: 8px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911);
+    box-shadow: 0 6px 6px rgba(255, 243, 75, 0.911);
     text-align: center;
 }
         
@@ -94,9 +94,7 @@
     font-size: 15px;
 }
 
-.login-btn:hover{
-    opacity: 0.9;
-}
+
 
 .signup-text{
     margin-top: 15px;
@@ -118,4 +116,8 @@
 .my-links img:hover {
     transform: scale(1.15);
     opacity: 0.8;
+}
+.my-links {
+  text-align: center;
+  margin: 25px 0;
 }

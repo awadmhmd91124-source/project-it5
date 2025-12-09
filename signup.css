@@ -15,7 +15,7 @@
             font-weight: bold;
             border-radius: 10px;
             margin-bottom: 20px;
-          box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911)
+          box-shadow: 0 5px 5px rgba(247, 245, 245, 0.911)
         }
         
          nav {
@@ -23,7 +23,7 @@
     padding: 15px;
     border-radius: 8px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911);
+    box-shadow: 0 6px 6px rgb(255, 228, 76);
     text-align: center;
 }
         
@@ -40,10 +40,7 @@
             color: #f1e3d8;
             text-decoration: underline;
         }
-         .my-links {
-  text-align: center;
-  margin: 25px 0;
-}
+    
   
 .login-box{
     width: 350px;
@@ -82,4 +79,8 @@
 .my-links img:hover {
     transform: scale(1.15);
     opacity: 0.8;
+}
+     .my-links {
+  text-align: center;
+  margin: 25px 0;
 }
