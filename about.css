@@ -1,0 +1,81 @@
+  body {
+    background: linear-gradient(to right, #ffffff, #e7e0db);
+    color: rgb(255, 253, 253);
+    text-align: center;
+    padding: 30px;
+    font-size: 32px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-image: url("../.VSCODE/WhatsApp Image 2025-11-14 at 14.48.09_9224db24.jpg") ;
+        }
+      
+        header {
+            background: linear-gradient(to right, #8B4513, #D2691E);
+            color: rgb(228, 227, 225);
+            text-align: center;
+            padding: 28px;
+            font-size: 30px;
+            font-weight: bold;
+            border-radius: 10px;
+            margin-bottom: 20px;
+             box-shadow: 0 2px 4px rgba(7, 1, 1, 0.911);
+        }
+        
+       
+     
+       nav {
+            background: linear-gradient(to right, #d8ab87, #D2691E);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(211, 196, 196, 0.911);
+            text-align: center;
+        }
+        
+        nav a {
+            color: #8B4513;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+           nav a:hover {
+            color: #f1e3d8;
+            text-decoration: underline;
+        }
+        
+        
+        .container {
+            width: 90%;
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 100px;
+            border: 1px solid #000000;
+        }
+        h1 {
+            text-align: center;
+            color: #4e342e;
+        }
+        p {
+            text-align: center;
+            line-height: 1.8;
+            color: #d39207;
+            font-size: 18px;
+        }
+       
+
+.my-links img {
+    width: 35px;
+    height: 35px;
+    transition: 0.3s;
+}
+
+.my-links img:hover {
+    transform: scale(1.15);
+    opacity: 0.8;
+}
